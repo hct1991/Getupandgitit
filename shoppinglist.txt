@@ -1,0 +1,7 @@
+Shopping:
+
+bread
+milk
+coffee
+lollies
+ice cream
