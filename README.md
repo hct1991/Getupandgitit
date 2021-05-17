@@ -1,2 +1,2 @@
-# Getupandgitit
-Time to get up and Git It
+# Gitupandgitit
+Time to Git up and Git It
